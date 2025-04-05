@@ -31,13 +31,28 @@ Monte Carlo simulations, computational fluid dynamics (CFD), statistical analysi
 __Brigham Young University - Idaho, Rexburg, ID__
 
 B.S. in Physics with a minor in Computational Physics
-Key Projects: Monte Carlo simulation for cosmic ray propagation, CFD analysis for Formula SAE car (5% drag reduction), C# application for resource scheduling optimization.
+
+Key Projects: 
+
+- Simulated fluid behavior in various scenarios using OpenFOAM, analyzing velocity profiles, pressure distributions, and vortex dynamics to gain insights into complex fluid phenomena. 
+
+- CFD analysis for Formula SAE car (5% drag reduction)
+
+- Developed a predictive model using machine learning algorithms to simulate planetary motion, accurately forecasting orbital trajectories and celestial body interactions, and demonstrating the application of AI in astrophysical research.
+
+
+
 
 `2018 - 2023`
 __Ensign College, Salt Lake City, UT__
 
-- Associate of Business Management - Data Analytics
+Associate of Business Management - Data Analytics
 
+Key Projects: 
+
+- Designed and implemented a comprehensive database for a fictional e-commerce company, creating tables, relationships, and indexes to support efficient data retrieval and analysis.
+
+- Developed interactive dashboards for the World Cup 2022 using PowerBI, providing insights into team performance, player statistics, and fan engagement through dynamic visualizations and data storytelling.
 
 ## Experience
 
@@ -45,20 +60,27 @@ __Ensign College, Salt Lake City, UT__
 __CorVel Corporation, Portland, OR__
 
 #### Data Analyst II
-Extract, manipulate, and analyze data using SQL to support decision-making.
-Clean and preprocess data for integrity and visualization readiness.
-Create Excel and Power BI dashboards and visualizations for stakeholders.
-Collaborate with cross-functional teams to deliver actionable insights.
+- Extract, manipulate, and analyze data using SQL to support decision-making.
+
+- Clean and preprocess data for integrity and visualization readiness.
+
+- Create Excel and Power BI dashboards and visualizations for stakeholders.
+
+- Collaborate with cross-functional teams to deliver actionable insights.
 
 `September 2020 - February 2023`
 __Weave Communications, Lehi, UT__
 
 #### Sales Operations Analyst
-Managed Salesforce lead database, increasing revenue per lead by 25%.
-Led daily scrum meetings using agile methodologies.
-Developed team-wide reports and dashboards for performance tracking.
-Improved lead sourcing by 44% through event and conference strategies.
-Managed JIRA for project tracking and process optimization.
+- Managed Salesforce lead database, increasing revenue per lead by 25%.
+
+- Led daily scrum meetings using agile methodologies.
+
+- Developed team-wide reports and dashboards for performance tracking.
+
+- Improved lead sourcing by 44% through event and conference strategies.
+
+- Managed JIRA for project tracking and process optimization.
 
 
 <!-- ### Footer
