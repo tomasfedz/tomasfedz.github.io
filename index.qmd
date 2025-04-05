@@ -5,6 +5,8 @@ subtitle: "my data science portfolio"
 ---
 
 # Title 1 Header
+
+![Tomas & Sabrina](https://tomasfedz.github.io/Images/Tomas%20&%20Sabrina.jpg)
 ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
