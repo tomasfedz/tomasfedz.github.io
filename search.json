@@ -200,14 +200,7 @@
     "href": "index.html",
     "title": "about me",
     "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
+    "text": "Title 1 Header\n ## Title 2 Header\nMarkDown Basics\n\n\n\n\n Back to top"
   },
   {
     "objectID": "Cleansing_Exploration/project3.html",
