@@ -1,89 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tomas Fernandez' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tomas Fernandez
+Data Analyst, Physicist, Husband, Father
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/tomas-fernandez/">My LinkedIn profile</a>
+| <a href="https://github.com/tomasfedz/tomasfedz.github.io">My GitHub portfolio</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data Analyst II at CorVel Corporation (working remotely), leveraging SQL, Python, and AI tools to drive strategic business decisions through data analysis and visualization.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data analysis, data visualization (Tableau, Power BI, Excel), SQL, machine learning models in Python (Decision Trees, Random Forests and Linear Regression), creation of C# applications, and physics-related computational applications.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Monte Carlo simulations, computational fluid dynamics (CFD), statistical analysis, data-driven decision-making, and process optimization.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 - Present`
+__Brigham Young University - Idaho, Rexburg, ID__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+B.S. in Physics with a minor in Computational Physics
+Key Projects: Monte Carlo simulation for cosmic ray propagation, CFD analysis for Formula SAE car (5% drag reduction), C# application for resource scheduling optimization.
 
-- Sizar
+`2018 - 2023`
+__Ensign College, Salt Lake City, UT__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Associate of Business Management - Data Analytics
 
 
+## Experience
 
-## Awards
+`February 2023 - Present`
+__CorVel Corporation, Portland, OR__
 
-`2012`
-President, *Royal Society*, London, UK
+#### Data Analyst II
+Extract, manipulate, and analyze data using SQL to support decision-making.
+Clean and preprocess data for integrity and visualization readiness.
+Create Excel and Power BI dashboards and visualizations for stakeholders.
+Collaborate with cross-functional teams to deliver actionable insights.
 
-Associate, *French Academy of Science*, Paris, France
+`September 2020 - February 2023`
+__Weave Communications, Lehi, UT__
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+#### Sales Operations Analyst
+Managed Salesforce lead database, increasing revenue per lead by 25%.
+Led daily scrum meetings using agile methodologies.
+Developed team-wide reports and dashboards for performance tracking.
+Improved lead sourcing by 44% through event and conference strategies.
+Managed JIRA for project tracking and process optimization.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
