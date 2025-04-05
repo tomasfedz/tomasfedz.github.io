@@ -7,7 +7,8 @@ subtitle: My Data Science Portfolio
 # Who am I?
 Hi, I'm Tomas, a data science enthusiast with a passion for physics and sports. With a background in Python and SQL, I've developed a strong foundation in manipulating and analyzing data creating smart and stunning visualizations. I'm excited to share my projects and experiences with you, showcasing my skills in these areas. When I'm not working on data science projects, you can find me playing strategy games, watching sports, or hanging out with my wife who is my best friend. I'm looking forward  connect with you as I continue to learn and grow in my career."
 
-![Tomas & Sabrina](https://tomasfedz.github.io/Images/Images/IMG_0058.jpg)
+<img src="https://tomasfedz.github.io/Images/Images/IMG_0058.JPG" alt="Tomas & Sabrina" width="500" />
+
 <!-- ## Title 2 Header
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images) -->
