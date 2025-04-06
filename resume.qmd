@@ -2,7 +2,7 @@
 layout: cv
 title: Tomas Fernandez' CV
 ---
-# Tomas Fernandez
+
 Data Analyst, Physicist, Husband, Father
 
 <div id="webaddress">
